@@ -1,0 +1,9 @@
+  div > h1{color: indigo;}
+ body{
+    background-color: rgb(130, 131, 209);
+ }
+ h1{ color: brown;}
+#umar{ color: aqua;}
+ li.list { list-style-type: lower-alpha; color: chocolate;} 
+#learn{ background-color: black;}
+*{ background-color: yellow;}
