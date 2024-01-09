@@ -1,0 +1,12 @@
+body{
+    background-color: aquamarine;
+}
+div{
+    background-color: white; 
+    text-align: center;
+    border-color: aliceblue; border-width: 20%;
+    
+    h1{
+        font-size: x-large;
+    }
+}
