@@ -1,0 +1,34 @@
+h1{
+    text-align: center;
+    color: brown;
+    font-size: 60px;
+}
+img{
+    height: 100px;
+    width: 80px;
+}
+
+
+
+
+
+div.wall{
+    border: 3px solid rgb(235, 212, 11);
+     min-height: 300px;
+    max-width: 700px; 
+    
+    text-align: center;
+    margin: 12px auto;
+    transform: scale(1.1);
+    justify-content: space-around;
+    align-items: center;
+    background-color: olive;
+    flex-wrap: wrap;
+    display: flex;
+    
+} 
+div{
+    flex-wrap: wrap;
+    margin: 8px;
+    
+}
